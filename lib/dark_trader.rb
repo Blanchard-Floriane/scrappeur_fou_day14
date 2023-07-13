@@ -43,7 +43,5 @@ def array_hashes_together
       result_array << mini_hash
     end
   end
-  puts result_array
+  return result_array
 end
-
-array_hashes_together
